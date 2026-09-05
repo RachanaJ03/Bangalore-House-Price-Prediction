@@ -111,5 +111,3 @@ The trained model can be used to estimate the price of a property based on input
 **Rachana Jogale**
 
 B.Tech Computer Science & Engineering
-```
-```
