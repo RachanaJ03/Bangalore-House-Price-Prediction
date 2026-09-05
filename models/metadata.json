@@ -1,0 +1,49 @@
+{
+  "best_model": "Ridge Regression",
+  "locations": [
+    "BTM Layout",
+    "Banashankari",
+    "Bannerghatta Road",
+    "Bellandur",
+    "Electronic City",
+    "HSR Layout",
+    "Hebbal",
+    "Indiranagar",
+    "JP Nagar",
+    "Jayanagar",
+    "KR Puram",
+    "Kengeri",
+    "Koramangala",
+    "Malleshwaram",
+    "Marathahalli",
+    "Rajajinagar",
+    "Sarjapur Road",
+    "Uttarahalli",
+    "Whitefield",
+    "Yelahanka"
+  ],
+  "furnishing": [
+    "Fully-Furnished",
+    "Semi-Furnished",
+    "Unfurnished"
+  ],
+  "property_types": [
+    "Apartment",
+    "Independent House",
+    "Villa"
+  ],
+  "features": [
+    "area",
+    "location",
+    "bhk",
+    "bath",
+    "balcony",
+    "parking",
+    "furnishing",
+    "property_type",
+    "age",
+    "area_per_bhk",
+    "bath_per_bhk",
+    "age_squared"
+  ]
+}
